@@ -16,11 +16,13 @@ Created by Andy L, Ethan P, Luis H, James S, and Alden S.
 Good luck to all future teams!
 
 # Features
+
 Auto-securing for Linux and Windows. A command compliation is in the folder for Cisco.
 
 Complied Windows batch file to make everything a bit easier. (Will ask for ADMIN on launch)
 
 # Windows
+
 Clears out all of the insecure processes, and checks for viruses and Rookits via 3-rd party programs.
 Disables insecure information and processes.
 Displays startup programs for analysis.
@@ -29,6 +31,7 @@ Deletes pirated files and displays for analysis.
 Installs antivirus from the internet (network connection required)
 
 # Linux
+
 Adds many manual IPTABLES rules.
 Scans for virues and potential exploits.
 Install and revise current sources.
